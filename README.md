@@ -1,2 +1,2 @@
-# ibm_project2
-ibm_internship
+# ibmproject2
+It is a portfolio it is developed for ibm intenship
